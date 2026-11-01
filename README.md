@@ -4,4 +4,4 @@
 - 장소: 옛 천안시청 자리 한돈가 (천안시 동남구 옛시청길 29, 1층)
 - 주최: 너른품봉사단
 
-GitHub Pages 주소: https://seongbumjin-star.github.io/love-bazaar/
+GitHub Pages 주소: https://bazaar.ai2030.kr/
